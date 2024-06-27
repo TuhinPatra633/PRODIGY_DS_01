@@ -34,10 +34,3 @@ You can view the Jupyter Notebook directly on GitHub by clicking [here](https://
 
 Alternatively, you can download the repository and run the notebook locally to explore the analysis in detail.
 
-## Running the Notebook
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/UEFA-EURO-2024-Data-Analysis.git
-cd UEFA-EURO-2024-Data-Analysis
