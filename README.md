@@ -5,7 +5,7 @@ This repository contains an data analysis on UEFA EURO 2024 data.
 
 ## Data Source:
 
-The analysis is based on data sourced from [Kaggle](https://www.kaggle.com/](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players).
+The analysis is based on data sourced from [Kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players).
 
 # Project Overview
 
